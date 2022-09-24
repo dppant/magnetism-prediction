@@ -10,6 +10,6 @@ Run `evaluate_model.py`
 Notebook `data_exploration_preprocessing.ipynb` contains source code to prepare dataset for training models.
 
 ### Model Training 
-Notebooks `Models.ipynb` and `stacking.ipynb` contains the code for training base and meta models.
+Notebooks `Models.ipynb` and `stacking.ipynb` contain the code for training base and meta models.
 
 
