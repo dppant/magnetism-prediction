@@ -59,3 +59,4 @@ mae = mean_absolute_error(final_prediction, y_test)
 # print("MSE = %.2f, R2 Score = %f, MAE=%f"%mse, mae, r2)
 
 print("MSE = {:.2f}, MAE = {:.2f}, R2 Score = {:.2f}".format(mse, mae,r2))
+#pd.DataFrame(final_prediction).to_csv("Latest_data_prediction")
