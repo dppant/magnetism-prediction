@@ -1,5 +1,8 @@
 # magnetism-prediction
-DFT-aided Machine Learning Search for Magnetism in Fe-based Bimetallic Chalcogenides
+DFT-aided Machine Learning Search for Magnetism in Fe-based Bimetallic Chalcogenides 
+
+This work is published in Scientific Reports. Access the article here:
+https://doi.org/10.1038/s41598-023-30438-w
 
 Install necessary packages form `requirements.txt`
 
