@@ -3,7 +3,7 @@ DFT-aided Machine Learning Search for Magnetism in Fe-based Bimetallic Chalcogen
 
 Install necessary packages form `requirements.txt`
 
-### Evaluate Final Model:
+### Evaluate Final Model
 Run `evaluate_model.py` 
 
 ### Inside `process_design_develop_code`
